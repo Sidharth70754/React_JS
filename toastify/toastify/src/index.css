@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    padding: 20px;
+  
+  }
+  
+  button {
+    padding: 15px 30px;
+    background-color: lightseagreen;
+    color: #fff;
+    border-radius: 5px;
+    font: 30px;
+    border: none;
+    font-weight: 600;
+    font-size: 30px;
+    
+  }
